@@ -1,0 +1,3 @@
+INDEX VERSION 1.129+/home/victor/Desktop/java/design pattern/.metadata/.plugins/org.eclipse.jdt.core
+3512119669.index
+4185444791.index
