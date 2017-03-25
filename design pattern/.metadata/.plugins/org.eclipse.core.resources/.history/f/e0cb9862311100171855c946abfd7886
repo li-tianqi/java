@@ -1,0 +1,15 @@
+package net.imwork.litianqi.java.study;
+
+// 饿汉模式
+public class Wife {
+
+	// 一开始就新建一个实例
+	private static final Wife wife = new Wife();
+	
+	private Wife() {}
+	
+	// 获得实例的方法
+	public static Wife getWife() {
+		return wife;
+	}
+}
